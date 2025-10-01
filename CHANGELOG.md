@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-08)
+## Unreleased (2025-10-01)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f6204a4`](https://github.com/stdlib-js/stdlib/commit/f6204a4fc179ad7f12ecdfa6a472ae56d4f04b9d) - **test:** add tests to achieve full coverage in `acosf` and `asin` _(by Philipp Burckhardt)_
 -   [`df5e6b8`](https://github.com/stdlib-js/stdlib/commit/df5e6b80f7fd70dd2d9f71b1ce3cae52ac52f11d) - **chore:** replace number strings with literals _(by Karan Anand)_
 -   [`d5e319b`](https://github.com/stdlib-js/stdlib/commit/d5e319b49adacabbc2985d0889248593682ed731) - **chore:** use correct output policy _(by Karan Anand)_
 -   [`56388ac`](https://github.com/stdlib-js/stdlib/commit/56388aceeac1d76fd6f554c8871a55d908589415) - **chore:** add structured package data _(by Karan Anand)_
