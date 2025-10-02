@@ -53,7 +53,6 @@
     "@stdlib/utils-library-manifest": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/assert-is-number": "^0.2.2",
     "@stdlib/assert-is-positive-zero": "^0.2.2",
     "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
     "@stdlib/constants-float32-eps": "^0.2.2",
